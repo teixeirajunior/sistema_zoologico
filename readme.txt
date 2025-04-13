@@ -7,7 +7,7 @@ Requisitos para execução, softwares instalados:
 
 ---------------------------------------------
 
-Passos para fazer a instalação do sistema e executá-lo:
+******************* COMO RODAR O PROJETO *******************
 
 1º - Baixar o sistema pelo repositório do GitHub.
 
@@ -38,3 +38,29 @@ usuário: admin
 senha: 1234
 
 11º - Após feito o login você será direcionado para a página Home, onde existe aos módulos Animais, Cuidados, Dashboard, onde voce irá utilizar o sistema.
+
+
+*******************  FUNCIONALIDADE *******************
+
+- Gerenciamento de Animais do Zoológico.
+- Gerenciamento dos Cuidados dos Animais.
+
+
+*******************  RECURSOS EXTRAS *******************
+
+- Implementado filtro avançado para buscar de informações tanto no módulo dos Animais, quanto no módulo Cuidados.
+- Realicionamento entre Animal e Cuidado, onde no gerenciamento dos cuidados dos animais eu posso selecionar o animal que ja foi cadastrado.
+- Recurso de autenticação de usuário, com tela de login e opção de logout.
+- Implementado módulo Dashboard, onde há gráficos de apresentação de informações.
+
+
+
+
+
+
+
+
+
+
+
+
