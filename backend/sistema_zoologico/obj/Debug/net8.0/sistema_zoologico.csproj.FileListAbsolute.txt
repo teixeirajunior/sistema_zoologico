@@ -1,0 +1,1009 @@
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.Development.json
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.json
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.exe
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.deps.json
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.runtimeconfig.json
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.pdb
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Core.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Identity.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Humanizer.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.ClientModel.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.CodeDom.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Memory.Data.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Json.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.AssemblyReference.cache
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfoInputs.cache
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfo.cs
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CoreCompileInputs.cache
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cs
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cache
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.build.json
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.development.json
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.sistema_zoologico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.build.sistema_zoologico.props
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sistema_zoologico.props
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sistema_zoologico.props
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.pack.json
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\scopedcss\bundle\sistema_zoologico.styles.css
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CopyComplete
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\refint\sistema_zoologico.dll
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.pdb
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.genruntimeconfig.cache
+C:\App Android\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\ref\sistema_zoologico.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.Development.json
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.json
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.exe
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.deps.json
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.runtimeconfig.json
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Core.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Identity.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Humanizer.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.ClientModel.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.CodeDom.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Memory.Data.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Json.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.AssemblyReference.cache
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfoInputs.cache
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfo.cs
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CoreCompileInputs.cache
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cs
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cache
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.build.json
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.development.json
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.sistema_zoologico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.build.sistema_zoologico.props
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sistema_zoologico.props
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sistema_zoologico.props
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.pack.json
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\scopedcss\bundle\sistema_zoologico.styles.css
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CopyComplete
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\refint\sistema_zoologico.dll
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.genruntimeconfig.cache
+C:\zoo-teste\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\ref\sistema_zoologico.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.Development.json
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.json
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.exe
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.deps.json
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.runtimeconfig.json
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Core.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Identity.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Humanizer.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.ClientModel.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.CodeDom.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Memory.Data.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Json.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.AssemblyReference.cache
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfoInputs.cache
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfo.cs
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CoreCompileInputs.cache
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cs
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cache
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.sourcelink.json
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.build.json
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.development.json
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.sistema_zoologico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.build.sistema_zoologico.props
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sistema_zoologico.props
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sistema_zoologico.props
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.pack.json
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\scopedcss\bundle\sistema_zoologico.styles.css
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CopyComplete
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\refint\sistema_zoologico.dll
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.genruntimeconfig.cache
+C:\zoo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\ref\sistema_zoologico.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.Development.json
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.json
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.exe
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.deps.json
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.runtimeconfig.json
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.pdb
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Core.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Identity.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Humanizer.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.ClientModel.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.CodeDom.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Memory.Data.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Json.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.AssemblyReference.cache
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfoInputs.cache
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfo.cs
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CoreCompileInputs.cache
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cs
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cache
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.build.json
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.development.json
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.sistema_zoologico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.build.sistema_zoologico.props
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sistema_zoologico.props
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sistema_zoologico.props
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.pack.json
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\scopedcss\bundle\sistema_zoologico.styles.css
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CopyComplete
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.dll
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\refint\sistema_zoologico.dll
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.pdb
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.genruntimeconfig.cache
+C:\novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\ref\sistema_zoologico.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.Development.json
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\appsettings.json
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.exe
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.deps.json
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.runtimeconfig.json
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Core.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Azure.Identity.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Humanizer.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.ClientModel.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.CodeDom.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Memory.Data.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Text.Json.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.AssemblyReference.cache
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfoInputs.cache
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfo.cs
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CoreCompileInputs.cache
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cs
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cache
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.build.json
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.development.json
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.sistema_zoologico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.build.sistema_zoologico.props
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sistema_zoologico.props
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sistema_zoologico.props
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\staticwebassets.pack.json
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\scopedcss\bundle\sistema_zoologico.styles.css
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CopyComplete
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\refint\sistema_zoologico.dll
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.genruntimeconfig.cache
+C:\zoo_novo\sistema_zoologico\sistema_zoologico\obj\Debug\net8.0\ref\sistema_zoologico.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\appsettings.Development.json
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\appsettings.json
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.exe
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.deps.json
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.runtimeconfig.json
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Azure.Core.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Azure.Identity.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Humanizer.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.ClientModel.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.CodeDom.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Memory.Data.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Text.Json.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\zoo_sistema\backend\sistema_zoologico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.AssemblyReference.cache
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfoInputs.cache
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.AssemblyInfo.cs
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CoreCompileInputs.cache
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cs
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.MvcApplicationPartsAssemblyInfo.cache
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\staticwebassets.build.json
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\staticwebassets.development.json
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.sistema_zoologico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.build.sistema_zoologico.props
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sistema_zoologico.props
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sistema_zoologico.props
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\staticwebassets.pack.json
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\scopedcss\bundle\sistema_zoologico.styles.css
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.csproj.CopyComplete
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.dll
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\refint\sistema_zoologico.dll
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.pdb
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\sistema_zoologico.genruntimeconfig.cache
+C:\zoo_sistema\backend\sistema_zoologico\obj\Debug\net8.0\ref\sistema_zoologico.dll

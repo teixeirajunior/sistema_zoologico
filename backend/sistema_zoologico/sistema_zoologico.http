@@ -1,0 +1,6 @@
+@sistema_zoologico_HostAddress = http://localhost:5149
+
+GET {{sistema_zoologico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
